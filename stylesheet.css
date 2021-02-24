@@ -1,0 +1,27 @@
+body {
+    background-color: aqua;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+form{
+    display: inline-block
+}
+label {
+    display: inline-block;
+    clear: left;
+    width: 250px;
+    text-align: right;
+}
+input {
+    display: inline-block;
+}
+button{
+    position: absolute;
+    right: 0;
+    background-color: whitesmoke
+}
